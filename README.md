@@ -48,7 +48,7 @@ npx react-native run-android
 ```
 
 ## 🎥 Demo Video
-👉 [https://drive.google.com/file/d/1L5d5WmfdrigyVNx6Zcw0QdFr2gRksNbt/view?usp=sharing](#) *(Upload your demo video and add the link here)*
+👉 [https://drive.google.com/file/d/1L5d5WmfdrigyVNx6Zcw0QdFr2gRksNbt/view?usp=sharing](#)
 
 ## 📂 Folder Structure
 ```
@@ -69,7 +69,7 @@ npx react-native run-android
 - 🔄 **Google Contacts Sync**
 
 ## 📩 Submission
-- **GitHub Repository**: [your-repo-link](#)
+- **GitHub Repository**: [https://github.com/KaDiS-Bot/dialerApp](#)
 - **Demo Video**: [https://drive.google.com/file/d/1L5d5WmfdrigyVNx6Zcw0QdFr2gRksNbt/view?usp=sharing](#)
 
 ---
